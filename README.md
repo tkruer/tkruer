@@ -2,9 +2,9 @@
 
 I am Tyler Kruer, currently pursuing my bachelor's degree majoring in Public Health from [Arizona State Universtiy](https://asu.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)]
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)]
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)]
+
+[![Instagram Badge](https://img.shields.io/badge/-tkruer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tkruer/)]
+[![Gmail Badge](https://img.shields.io/badge/-tkruer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkruer@gmail.com)]
 
 ## ⚡ Technologies
 
@@ -37,7 +37,7 @@ I am Tyler Kruer, currently pursuing my bachelor's degree majoring in Public Hea
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tkruer&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkruer&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tkruer.aemmadi)
