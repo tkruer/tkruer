@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Tyler Kruer, currently pursuing my bachelor's degree majoring in Public Health from [Arizona State Universtiy](https://asu.edu/). While my dream goal is to become a physician and be able to do research in mobile health, I am a self taught developer in my free time. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Tyler Kruer, currently pursuing my bachelor's degree majoring in Public Health from [Arizona State Universtiy](https://asu.edu/). While my dream goal is to become a physician and continue research in mobile health, I am a self taught developer in my free time. My exploration of software development orignally began when friends of mine were using web automation tools like puppeteer in order to purchase limited goods. Eventually my experience grew from Python to Javascript to Swift to Go all while learning from my friends.
+
+I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-tkruer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tkruer/)]
