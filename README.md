@@ -19,6 +19,7 @@ Find out more about me & feel free to connect with me here:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tkruer&count_private=true&show_icons=true&include_all_commits=true)
