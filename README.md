@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-💡 Proficient in Swift, Python, Go, JavaScript/TypeScript
-💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, Circle CI, and more
-🌱 I’m currently learning Rust
-🚨 Most of my repositories are private :/
+- 💡 Proficient in Swift, Python, Go, JavaScript/TypeScript
+- 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, Circle CI, and more
+- 🌱 I’m currently learning Rust
+- 🚨 Most of my repositories are private :/
 
 
 [![Instagram Badge](https://img.shields.io/badge/-tkruer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tkruer/)]
