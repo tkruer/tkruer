@@ -6,7 +6,7 @@
 - 🚨 Most of my repositories are private :/
 
 
-[![Instagram Badge](https://img.shields.io/badge/-tkruer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tkruer/)]
+Want to get in touch?
 [![Gmail Badge](https://img.shields.io/badge/-tkruer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkruer@gmail.com)]
 
 ## ⚡ Technologies
