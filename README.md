@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I am Tyler Kruer, currently pursuing my bachelor's degree majoring in Public Health from [Arizona State Universtiy](https://asu.edu/). While my dream goal is to become a physician and continue research in mobile health, I am a self taught developer in my free time. 
-
-My exploration of software development orignally began with friends of mine who were using web automation tools like puppeteer in order to purchase limited Nike shoes. Fast forward a few years and my skills include utilizing tools within Python, JavaScript, and Swift in order to solve problems in Mobile Health.
-
-I am a tech enthusiast & an open-source advocate. While most of my automation work is under private repositories, I am always open to collaborating on projects and innovative/disruptive ideas. 
-
-Find out more about me & feel free to connect with me here:
+💡 Proficient in Swift, Python, Go, JavaScript/TypeScript
+💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, Circle CI, and more
+🌱 I’m currently learning Rust
+🚨 Most of my repositories are private :/
 
 
 [![Instagram Badge](https://img.shields.io/badge/-tkruer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tkruer/)]
