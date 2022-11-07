@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💡 Proficient in Swift, Python, Go, JavaScript/TypeScript
+- 💡 Proficient in Swift, Python, Go, JavaScript/TypeScript and Kotlin
 - 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, Circle CI, and more
 - 🌱 I’m currently learning Rust
 - 🚨 Most of my repositories are private :/
